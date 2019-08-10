@@ -1,0 +1,12 @@
+INSERT INTO `tb_cource` VALUES (1, '大学英语', 3, '软件工程');
+INSERT INTO `tb_cource` VALUES (2, '大学物理', 1.5, '物联网工程');
+INSERT INTO `tb_cource` VALUES (3, '高等数学', 5.5, '计算机科学与技术');
+INSERT INTO `tb_cource` VALUES (4, 'C语言程序设计', 3, '软件工程');
+INSERT INTO `tb_cource` VALUES (5, '数据结构', 3, '软件工程');
+INSERT INTO `tb_cource` VALUES (6, '线性代数', 1.5, '物理学');
+INSERT INTO `tb_cource` VALUES (7, '大学语文', 1.5, '服装设计');
+INSERT INTO `tb_cource` VALUES (8, '服装市场考察', 2.5, '服装设计');
+INSERT INTO `tb_cource` VALUES (9, '数据库', 4, '计算机科学与技术');
+INSERT INTO `tb_cource` VALUES (10, '计算机网络', 4, '软件工程');
+INSERT INTO `tb_cource` VALUES (11, '英语', 4, '软件工程');
+INSERT INTO `tb_cource` VALUES (12, '英文', 2, '软件工程');
